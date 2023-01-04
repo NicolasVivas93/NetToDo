@@ -11,5 +11,7 @@ namespace NetToDo.Services
         // Si la sintaxis parece confusa, recuerda "una Tarea(Task) que contiene un arreglo de TodoItems"
 
         Task<bool> AddItemAsync(TodoItem newItem);
+
+        Task<bool> MarkDoneAsync(Guid id);
     }
 }

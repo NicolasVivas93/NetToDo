@@ -2889,11 +2889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nvivas\\source\\repos\\NetToDo\\NetToDo\\NetToDo.csproj",
+      "projectUniqueName": "C:\\Users\\nvivas\\repos\\NetToDo\\NetToDo\\NetToDo.csproj",
       "projectName": "NetToDo",
-      "projectPath": "C:\\Users\\nvivas\\source\\repos\\NetToDo\\NetToDo\\NetToDo.csproj",
+      "projectPath": "C:\\Users\\nvivas\\repos\\NetToDo\\NetToDo\\NetToDo.csproj",
       "packagesPath": "C:\\Users\\nvivas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nvivas\\source\\repos\\NetToDo\\NetToDo\\obj\\",
+      "outputPath": "C:\\Users\\nvivas\\repos\\NetToDo\\NetToDo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
